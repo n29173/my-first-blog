@@ -25,7 +25,7 @@ SECRET_KEY = 'vbo4u^fh@5%t5s7%s)k!_u+cpl1p3^m_mtmpr*28as4y$8(bvr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','nehaha.pythonaywhere.com']
 
 
 # Application definition
